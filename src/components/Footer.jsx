@@ -25,7 +25,7 @@ export default function Footer() {
             </div>
           </div>
           <p className="footer-about-text">
-            Bhopal's pure vegetarian Punjabi cafe serving fluffy Chole Bhature, buttery Pav Bhaji,
+            Bhopal's pure vegetarian Punjabi cafe serving fluffy Chole Bhature, traditional Daal Baati,
             rich curries, stuffed paranthas and authentic flavors on Ayodhya Bypass.
           </p>
           <div className="footer-veg-badge">

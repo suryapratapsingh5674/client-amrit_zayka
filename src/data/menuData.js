@@ -483,6 +483,14 @@ export const MENU_ITEMS = [
     priceDisplay: '₹50',
     description: 'Extra portion of authentic Punjabi chole or seasonal sabzi.',
   },
+  {
+    id: 'ext-4',
+    name: 'Extra Baati',
+    category: 'extras',
+    price: 20,
+    priceDisplay: '₹20',
+    description: 'Single piece of freshly baked traditional baati dipped in pure desi ghee.',
+  },
 
   // ==========================================
   // PAGE 4: Thaali Combos
@@ -551,15 +559,7 @@ export const SIGNATURE_DISHES = [
     image: '/images/chole-bhature-signature.jpg',
     badge: 'House Bestseller',
   },
-  {
-    id: 'sig-pav-bhaji',
-    title: 'Pav Bhaji',
-    tagline: 'Butter thoda extra, khushi double.',
-    description: 'Rich, spiced mashed vegetable bhaji with extra butter dollop, served with piping hot toasted pav.',
-    price: '₹80',
-    image: '/images/pav-bhaji-signature.jpg',
-    badge: 'All-Day Favorite',
-  },
+
   {
     id: 'sig-noodles',
     title: 'Noodles',
@@ -605,9 +605,9 @@ export const BRAND_MEMES = [
     image: '/images/chole-bhature-creative.webp',
   },
   {
-    quote: "He was toxic, Our Ingredients aren't.",
-    subtext: '100% Pure vegetarian, fresh vegetables, real butter, zero compromises.',
-    image: '/images/pav-bhaji-creative.webp',
+    quote: "Love is complicated, our daal-bati isn't.",
+    subtext: 'Authentic Daal Baati loaded with pure desi ghee and comforting traditional flavors.',
+    image: '/images/daal-bati.webp',
   },
   {
     quote: "Don't Settle for Dry Taste, Taste the Real Zayka.",
